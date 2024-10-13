@@ -418,7 +418,6 @@
 -r:"Library/Bee/artifacts/2100b0aE.dag/UnityEngine.SpatialTracking.ref.dll"
 -r:"Library/Bee/artifacts/2100b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/2100b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
-"Assets/Timer.cs"
 "Assets/UNS/flask_app/ButtonHandler.cs"
 -langversion:9.0
 
