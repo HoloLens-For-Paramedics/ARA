@@ -4,7 +4,7 @@
     "patient_info_gender":"Male",
     "patient_info_dob":"2003-01-01",
     "patient_info_weight":170,
-    "patient_info_race":"White",
+    "patient_info_race":"",
     "patient_info_pcr_num": 1738,
     "patient_info_home_address":"123 Main St",
     "patient_info_city":"San Jose",
